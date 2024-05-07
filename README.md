@@ -1,4 +1,4 @@
-#Setup custom keyboard
+# Setup custom keyboard
 
 
 ## Configur teclado padrao ASCI para funcionar acentuação no linux.
